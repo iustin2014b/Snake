@@ -1,3 +1,7 @@
 # Snake
-aaacs
+aaa
 bbb
+ccc
+ddd
+eee
+fff
