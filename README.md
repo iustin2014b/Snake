@@ -1,8 +1,8 @@
 # Snake
 aaa
 bbb
+ggg
 ccc
-ddd
 eee
 fff
-ggg
+ddd
